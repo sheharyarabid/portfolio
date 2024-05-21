@@ -22,11 +22,16 @@ const dataabout = {
 const worktimeline = [{
         jobtitle: "Full Stack (Intern)",
         where: "Vizteck Solutions",
-        date: "2022",
+        date: "Aug 2022",
     },
     {
         jobtitle: "Freelance",
         where: "Fiverr/Upwork",
+        date: "Present",
+    },
+    {
+        jobtitle: "Learn Student Ambassador",
+        where: "Microsoft",
         date: "Present",
     },
 ];
