@@ -99,12 +99,12 @@ const dataportfolio = [
     },
     {
         img: "https://imgur.com/Te7J9qH.gif",
-        description: "",
+        description: "React Native, NodeJS and MongoDB based mobile app. MY FYP UnderDevelopment",
         link: "#",
     },
     {
         img: "https://imgur.com/7q6fXeU.png",
-        description: "React Native, NodeJS and MongoDB based mobile app. MY FYP UnderDevelopment",
+        description: "",
         link: "https://sheharyarabid.github.io/bubble-game/",
     },
     {
