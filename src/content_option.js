@@ -154,7 +154,7 @@ const contactConfig = {
 const socialprofils = {
     github: "https://github.com/sheharyarabid",
     facebook: "https://facebook.com",
-    linkedin: "Linkedin.com/in/sheharyarabid/",
+    linkedin: "https://Linkedin.com/in/sheharyarabid/",
     twitter: "https://twitter.com/",
 };
 export {
