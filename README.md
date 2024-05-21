@@ -12,7 +12,6 @@ A simple portfolio template for developer/designers built with React.
 - React-Bootstrap
 - Edit Content From One Place
 
-### Setup
 
 Get the code? iamsheharyarabid@gmail.com
 
